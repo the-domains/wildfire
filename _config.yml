@@ -1,0 +1,28 @@
+name: Wildfire
+favicon: null
+layout_spectrum: 0.7892456869594753
+typography_spectrum: 0.3309317964594811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6571127753704786
+  lightness: 0.6850285744294524
+  saturation: 0.2369916515890509
+  rhythmicContrast: 0.014549151062965393
+purpose: []
