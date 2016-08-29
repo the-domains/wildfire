@@ -1,7 +1,7 @@
 name: Wildfire
 favicon: null
-layout_spectrum: 0.25709
-typography_spectrum: 0.82329
+layout_spectrum: 0.60806
+typography_spectrum: 0.92237
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#636053'
     - '#a2dd00'
     - '#8c9b81'
-  brandStrength: 0.875
+  brandStrength: 0.1875
   lightness: 1
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
